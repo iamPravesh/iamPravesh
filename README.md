@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampravesh&label=Profile%20views&color=0e75b6&style=flat" alt="iampravesh" /> </p>
 
-- Ask me about **Java, SQL, C++, react, Node, Next**
+- Ask me about **JavaScript, Java, SQL, C++, react, Node, Next**
 
 - 📫 How to reach me **praveshniroula1@gmail.com**
 
