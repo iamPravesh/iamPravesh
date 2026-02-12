@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pravesh Niroula</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">And I am a researcher. I research in Software Development and AI/ML. I am currently working on knowledge graphs and its application. Hit me up! for anything software engineering and AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampravesh&label=Profile%20views&color=0e75b6&style=flat" alt="iampravesh" /> </p>
-
-- Ask me about **JavaScript, Java, SQL, C++, react, Node, Next**
 
 - 📫 How to reach me **praveshniroula1@gmail.com**
 
